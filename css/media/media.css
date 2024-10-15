@@ -3,7 +3,7 @@
   .main-intro h2{
     margin-left: 5%;
     padding-top: 45%;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-size: 35px;
     font-weight: bold;
   }
@@ -78,7 +78,7 @@
     .main-intro h2{
       margin-left: 12%;
       padding-top: 45%;
-      color: rgb(0, 0, 0);
+      color: rgb(255, 255, 255);
       font-size: 35px;
       font-weight: bold;
     }
@@ -353,7 +353,7 @@
   .main-intro h2{
     margin-left: 17%;
     padding-top: 52%;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-size: 35px;
     font-weight: 600;
 }
