@@ -98,30 +98,9 @@
     .row {
       margin-left: 0;
     }
-    
-    .card-content {
-      padding: 5%;
-      background-color: white;
-      border-bottom: 5px solid rgb(0, 145, 255);
-      box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
-      
-    }
-    .card-content .fa-js, .card-content .fa-html5, .card-content .fa-database {
-      margin-top: 25px;
-      margin-left: 46%;
-      font-size: 60px;
-      color: rgb(255, 77, 0);
-    }
-    .card-content .fa-web-awesome{
-        margin-top: 25px;
-        margin-left: 44%;
-        font-size: 65px;
-        color: rgb(255, 77, 0);
-    }
     .card-title{
         font-size: 30px;
     }
-  
     .col-3 {
       margin-top: 20px;
       flex: 100%;
@@ -134,7 +113,6 @@
       text-align: center;
       font-size: 30px;
     }
-    
     .hire-btn {
       margin-top: 20px;
       font-size: 35px;
@@ -157,49 +135,10 @@
     .card {
         margin-bottom: 30px;
         border-radius: 10px;
-      }
-    
-    .card i {
-        margin-top: 25px;
-        margin-left: 46%;
-        font-size: 50px;
-        color: rgb(255, 77, 0);
-      }
-    
-    .card-body1, .card-body2, .card-body3 {
-        padding: 15px;
-        background-color: white;
-        border-bottom: 5px solid rgb(0, 145, 255);
-        box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
-      }
-    
+      } 
     .col-4 {
         flex: 100%;
         max-width: 100%;
-      }
-    
-    .stats-img {
-        flex-wrap: wrap;
-        padding: 5%;
-      }
-    .sticky-bg-stats{
-        width: 93%;
-        margin-left: 15px;
-      }
-    .stats-img li {
-        margin-bottom: 30px;
-        font-size: 20px;
-
-      }
-    .skill {
-        width: 100%;
-        height: auto;
-        margin-left: -1%;
-      }
-      
-    .skill p{
-        font-size: 26px;
-        margin-left: 2%;
       }
     h4{
         font-size: 26px;
@@ -208,21 +147,17 @@
     .p-fs, .p-cs {
         margin-top: 10px;
       }
-    
       .row {
         flex-wrap: wrap;
       }
-    
     .col-6 {
         flex: 100%;
         max-width: 100%;
       }
-    
     .skill li {
         margin-left: -3%;
         margin-top: 10px;
       }
-    
     ul {
         margin-bottom: 20px;
       }
@@ -246,25 +181,12 @@
     .education h4{
         margin-left: 2%;
     }
-    .accordion{
-        margin-right: 22px;
-        margin-top: 5%;
-        margin-left: 2%;
-        box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-        border: 1px solid lightslategrey;
-    }
-    .accordion-body{
-      font-size: 18px;
-      font-weight: 500;
-      color: chocolate;
-  }
     .accordion-button{
       font-size: 25px;
     }
     .work {
         margin-top: 50px;
         margin-right: 22px;
-        
       }
     .work-section,h4{
         margin-left: 2%;
@@ -274,20 +196,6 @@
         font-size: 25px;
         margin-left: 2%;
       }
-    
-    .work-section img {
-        margin-top: 5%;
-        box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
-        height: 300px;
-        border: 1px solid lightcoral;
-        margin-bottom: 20px;
-      }
-    
-    .col-6 {
-        flex: 100%;
-        max-width: 100%;
-      }
-    
     .hover-effect img {
         height: 300px;
         width: 100px;
@@ -295,7 +203,6 @@
     .contact{
         margin-top: 8%;
     }
-
     .contact p{
         margin-left: 2%;
         font-size: 20px;
@@ -317,17 +224,7 @@
         font-size: 10px;
         font-weight: bold;
     }
-    .form-btn .btn{
-        padding: 2%;
-        font-weight: 400;
-        margin-left: 3%;
-        font-size: 22px;
-        border-radius: 20px;
-    }
-    .form-floating{
-      font-weight: 500;
-    }
-  
+   
     }
     
 
